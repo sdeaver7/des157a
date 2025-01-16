@@ -1,7 +1,7 @@
 .orbitron-header {
   font-family: "Orbitron", serif;
   font-optical-sizing: auto;
-  font-weight: 5px;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -17,4 +17,6 @@
 
 h1 {
     font-family: Orbitron;
+    color: black;
+    font-size: 48px;
 }
