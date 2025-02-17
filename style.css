@@ -16,7 +16,9 @@
 }
 
 #name {
-  font-size: 100px;
+  font-size: 48px;
+  color: #ffffff;
+  text-shadow: 10px 10px 10px rgb(172, 132, 225);
   animation: MoveUpDown 4s linear infinite;
   position: relative;
   left: 0;
@@ -59,11 +61,6 @@ header {
   padding: 50px;
 }
 
-#name {
-  color: #ffffff;
-  text-shadow: 10px 10px 10px rgb(172, 132, 225);
-}
-
 .marquee-section {
   position: relative;
   min-height: 30px;
@@ -95,24 +92,15 @@ header {
   to { left: 100%; }
 }
 
-h1 {
-    font-family: Orbitron;
-    color: black;
-    font-size: 48px;
-    
-}
 
 h2 {
   font-family: Orbitron;
   color: black;
   font-size: 30px;
+  text-align: center;
 }
 
-.sectheaders{
-  text-align: center;
-  
-  /* font-size: 2.2vw; */
-}
+
 
 body {
   background: rgb(212,206,224);
